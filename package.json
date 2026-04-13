@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-privatesportshop",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Private Sport Shop depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-private-sport-shop",
+    "bon-de-reduction-private-sport-shop",
+    "coupon-private-sport-shop",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/privatesportshop.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-privatesportshop.git"
+  }
+}
